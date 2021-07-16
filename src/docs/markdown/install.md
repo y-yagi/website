@@ -60,7 +60,7 @@ Testing releases (includes betas and release candidates):
 
 [**View the Cloudsmith repos**](https://cloudsmith.io/~caddy/repos/)
 
-If you wish to use the packaged support files (systemd services, bash completion and default configuration) with a custom Caddy build, instructions can be [found here](https://caddyserver.com/docs/build#package-support-files-for-custom-builds-for-debian-ubuntu-raspbian).
+If you wish to use the packaged support files (systemd services, bash completion and default configuration) with a custom Caddy build, instructions can be [found here](https://caddyserver.com/docs/build#package-support-files-for-custom-builds-for-debianubunturaspbian).
 
 
 ## Fedora, RedHat, CentOS
@@ -165,4 +165,3 @@ _Note: This is a community-maintained installation method._
 <pre><code class="cmd">pkg install caddy</code></pre>
 
 [**View the Termux build.sh file**](https://github.com/termux/termux-packages/blob/master/packages/caddy/build.sh)
-
